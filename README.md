@@ -20,7 +20,7 @@ Please see below a screenshot from the game itself:
 
 You can play the game here:
 
-[<img alt= "Play button" src="https://github.com/SvetozarP/RockPaperScissorsBySvetozarP/assets/145108913/401efeb7-f21e-47d8-96e6-599328bfc478" />](https://replit.com/@spanov/RockPaperScissors#main.py)
+[<img alt= "Play Button" src="https://github.com/SvetozarP/RockPaperScissorsBySvetozarP/assets/145108913/401efeb7-f21e-47d8-96e6-599328bfc478" />](https://replit.com/@spanov/RockPaperScissors#main.py)
 
 [Start game](https://replit.com/@spanov/RockPaperScissors#main.py)
 

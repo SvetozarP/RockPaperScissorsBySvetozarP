@@ -16,8 +16,10 @@ Please see below a screenshot from the game itself:
 
 ![image](https://github.com/SvetozarP/RockPaperScissorsBySvetozarP/assets/145108913/a0df6127-d820-4eb1-bec7-c7b661e62535)
 
+## Live demo: 
 
 You can play the game here:
+
 [<img alt= "Play button" src="https://github.com/SvetozarP/RockPaperScissorsBySvetozarP/assets/145108913/401efeb7-f21e-47d8-96e6-599328bfc478" />](https://replit.com/@spanov/RockPaperScissors#main.py)
 
 Enjoy!

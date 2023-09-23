@@ -1,3 +1,4 @@
+from colorama import Fore
 import random
 
 rock = "Rock"
@@ -21,17 +22,17 @@ computer_move = ""
 
 if computer_random_number == 1:
     computer_move = rock
-elif computer_random_number == 2:
-    computer_move = paper
-elif computer_move == 3:
+elif computer_random_number == 3:
     computer_move = scissors
+else:
+    computer_move = paper
 
 print(f"The computer chose {computer_move}.")
 
 if (player_move == rock and computer_move == scissors) or (player_move == paper and computer_move == rock) or \
         (player_move == scissors and computer_move == paper):
-    print("You win!")
+    print(Fore.LIGHTGREEN_EX + "You win!")
 elif player_move == computer_move:
-    print("Draw!")
+    print(Fore.YELLOW + "Draw!")
 else:
-    print("You lose!")
+    print(Fore.RED + "You lose!")
